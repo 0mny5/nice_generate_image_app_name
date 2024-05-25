@@ -1,0 +1,27 @@
+{
+  "Index": {
+    "title": "t2iアプリ",
+    "loggedIn": "ようこそ {username}さん",
+    "loggedOut": "ログアウトしました",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "secret": "要ログインページへ"
+  },
+  "LocaleLayout": {
+    "title": "サンプル"
+  },
+  "Login": {
+    "title": "ログインページ",
+    "username": "ユーザーネーム",
+    "password": "パスワード",
+    "submit": "ログイン",
+    "error": "{error, select, CredentialsSignin {ユーザー名かパスワードが不正です} other {ログインエラー}}"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "{locale, select, de {日本語} en {English} other {Unknown}}"
+  },
+  "Secret": {
+    "title": "要ログインページ",
+    "description": "このページはログインが必要です"
+  }
+}
