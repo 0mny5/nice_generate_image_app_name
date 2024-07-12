@@ -25,7 +25,7 @@ export default function Login() {
       if (result?.error) {
         setError(result.error);
       } else {
-        router.push('/' + locale);
+        router.push('/' + locale + '/secret');
       }
     });
   }
